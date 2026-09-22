@@ -1,0 +1,5 @@
+ID,AGE,BMI,INTERPRETATION,CATEGORY
+0001,20,10,,NA
+0002,40,20,,nan
+0003,60,30,Normal Spirometry,Normal
+0004,80,40,Restrictive Impairment,Normal
