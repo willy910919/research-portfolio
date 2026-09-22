@@ -1,0 +1,259 @@
+{
+  "packaged_on": "2026-09-22",
+  "scope": "Actual core code, new synthetic examples, course descriptions and two reviewed aggregate images. No original row-level research data.",
+  "self_exclusion": "This manifest does not hash itself.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 218,
+      "sha256": "01dc5e89c63493da200f82c0e44fe57d44537b2b0929e9e8f1b688038b670b5b",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "assets/biomed_architecture.png",
+      "bytes": 76160,
+      "sha256": "ff70c73ec8821948874531ff38cc1707ffcb6f3902bba855735cf379e872609c",
+      "kind": "reviewed_report_image"
+    },
+    {
+      "path": "assets/industry_metrics.png",
+      "bytes": 269115,
+      "sha256": "5f1a5542fdeb1c691525980b8ed11c18674afc3764f1b739f38fbfbd61a39e56",
+      "kind": "reviewed_report_image"
+    },
+    {
+      "path": "coursework/bayesian/README.md",
+      "bytes": 1073,
+      "sha256": "5011fefec30916a2e67832375a2e9ac38b340f42fe8580ad8dacdfa540363abb",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "coursework/delhi/README.md",
+      "bytes": 963,
+      "sha256": "3a9dc3a3aba9229c4ae2f0a486eed3f109f14c664183eae6afa5c7255d7bff0b",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "coursework/mle-map/README.md",
+      "bytes": 917,
+      "sha256": "c260931b7880a82a57be94722484bf65c3fa77a3b978e4b46a0c971aff4e124c",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "coursework/README.md",
+      "bytes": 1091,
+      "sha256": "d73bb7ea85700a48a73995146e2ff7c87cc819dde8f47fdfbffcd2510bbc9671",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "coursework/sampling/README.md",
+      "bytes": 1903,
+      "sha256": "6378d19ec9c8466d23afe4c15fc1e51d87f3f670a62a3b628900359b85dbe545",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "coursework/sampling/sampling_final_report.R",
+      "bytes": 15580,
+      "sha256": "2fa58cb3b03d741a2c8726d2aafa4736471fa1291324b57f14d9b60475ee6e78",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "docs/architecture.md",
+      "bytes": 1184,
+      "sha256": "9b8dd758dadbb8c5f7fbe22e7edfe783c7c141eb7ecafecb1f94f50b84a93e85",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "docs/validation.md",
+      "bytes": 1986,
+      "sha256": "f0ce1da02b4975c4f5804c799fa1ac60dac2f75a0b01e31f5c411abc86baf788",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/examples/synthetic_four_rows.csv",
+      "bytes": 143,
+      "sha256": "86451b675b52148a6fa20c5b55e90124aff2e4ade830911d6a7531f66321d489",
+      "kind": "synthetic_fixture"
+    },
+    {
+      "path": "projects/biomed/README.md",
+      "bytes": 4170,
+      "sha256": "565cd0414061457c1146246f48ffb801e869c75ea76ab32e16e555f8ba2c87c6",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/__init__.py",
+      "bytes": 1624,
+      "sha256": "74532f6d7e326f88258c8f57b685baf1d4a16622d3a422ae2876bd269c89ed4c",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/audit.py",
+      "bytes": 14957,
+      "sha256": "13888f9d0daee85d03a89e40854103c70d16415e40051d4f5f97f9ba915effbb",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/clarification_memory.py",
+      "bytes": 5215,
+      "sha256": "e0759a25b35461fa44c7bc57b135c5a22a5daeeb28fd64fa84af1c296258ee1e",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/contracts.py",
+      "bytes": 8952,
+      "sha256": "25ec85d5384b8199a8978cbc8bebe99a942fc6db4d53db0d0d8ed238100bab3f",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/data_inspection.py",
+      "bytes": 9291,
+      "sha256": "59aa8234b5f1c2cb15f3aca68937a454c8704138dcc347f279fe00c26004ff72",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/dataset_import.py",
+      "bytes": 1792,
+      "sha256": "d7d591579326a609f8d51c695db71b8ae1d53f5eb904ec49cc5ee6797a109315",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/dataset_summary.py",
+      "bytes": 14701,
+      "sha256": "2e607516f9bf9cba4cd32f779263b34343402b116322d6d27a1e5e3bcfb39ffc",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/filtering.py",
+      "bytes": 8516,
+      "sha256": "98869e4a82569953f3b941999620b5f4a6e76b341a6028f8b4c21f8b91323098",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/lead_compiler.py",
+      "bytes": 11304,
+      "sha256": "94544a9b5e7c33a625df126f3a7a26ac6a290c10345107a09595f9c63b3c805d",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/reconciliation.py",
+      "bytes": 73981,
+      "sha256": "2cbcd51bc7493ec33761facabc154c55497ec005c2f85fa2480eece7f01ff1e1",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/resource_intent.py",
+      "bytes": 7508,
+      "sha256": "e2e6096bd0828caeab7e177058f611a1e31f1fc46bbe6235f5393bd892c0ba5f",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/tool_registry.py",
+      "bytes": 26289,
+      "sha256": "e1be22561cc4ba7f5d0632e2126b289300b1d0fc57fe0b306a0444a2f38a0d7c",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/research_room/user_requirements.py",
+      "bytes": 26973,
+      "sha256": "6bd18bae17665c80f5e7dcc3e86ad34bac5da498959234660edee0786a249452",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/run_demo.py",
+      "bytes": 1344,
+      "sha256": "c498c0dcf4ba63fbc017a36bafae8b601261fa3c6dae8785c8eb1219bd816256",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/run_plan_demo.py",
+      "bytes": 931,
+      "sha256": "90348bbdc596ba803286356d84df5e608bbb61de6bcc73b155e2c50ec05ee257",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/tests/test_data_inspection.py",
+      "bytes": 4436,
+      "sha256": "17f2ea592b76276ed0c7255a815533483bafbf10c5c55ca9d5c8c142d9dbf0be",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/biomed/tests/test_research_contracts.py",
+      "bytes": 74400,
+      "sha256": "c76d939d47afbb8255ae91eec2f76faef0e0ec7805335e656562e1471db92e00",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/evaluation.py",
+      "bytes": 4890,
+      "sha256": "a099fa10529f48056210bc6a0ce07b29cc39e199e900103a6de01c31a3b1887d",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/R/growth_tables.R",
+      "bytes": 5300,
+      "sha256": "9797807fe57da335e1fb55ea5e14f9d77c840950a29d9db0c153648181d361b2",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/R/run_synthetic_checks.R",
+      "bytes": 2371,
+      "sha256": "4949efb23819e99eca2b1b6a699826ec1e27f245a1875bd7d99f9e9779ddea5a",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/R/single_factor_reliability_operator.R",
+      "bytes": 2456,
+      "sha256": "749c0a582f809344d0627f3e5583e4fe9b8f69d5ce3261828357f90b12c4016d",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/README.md",
+      "bytes": 4819,
+      "sha256": "ea541d0e50096f44a445728a2337914b1f58524f1b538e72c9934873bbd44bfc",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/run_demo.py",
+      "bytes": 1044,
+      "sha256": "5b522b0c1063d7799f59905ac0f7e316c3668b09ba8783c55081c3f0202f56f9",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/scoped_industry_estimators.py",
+      "bytes": 22423,
+      "sha256": "24391bb400da800ca33300eee709869ae659cda154fbf7eef08f0b621a06639b",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "projects/industry/tests/test_estimators.py",
+      "bytes": 5457,
+      "sha256": "bd22ced6d67c5dede02c5265dfda7fc882fb3c20fdaa983c913854e5c0be17b0",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "PROVENANCE.json",
+      "bytes": 15056,
+      "sha256": "5286ad7ba1289d0b7a2c8a03b68844a59aa2ead47bac07a0941202bcb95943aa",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4722,
+      "sha256": "ab47eae196434a7e100315fb3798861b1aac83c93111d4520b096bb5811e576b",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 132,
+      "sha256": "b61fcb12c6976818e20f73f1d0e4272f39be3c98052de0e867af99b030d57bcb",
+      "kind": "source_or_documentation"
+    },
+    {
+      "path": "verify_manifest.py",
+      "bytes": 846,
+      "sha256": "b6cb18715ac3b10f7244cccea47bf276c5607246d7cab4b1ad4d4ead4acde994",
+      "kind": "source_or_documentation"
+    }
+  ]
+}

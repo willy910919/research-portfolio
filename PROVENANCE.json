@@ -1,0 +1,309 @@
+{
+  "packaged_on": "2026-09-22",
+  "source_type": "Actual local project source snapshots; not a commit or sole-authorship claim",
+  "entries": [
+    {
+      "file": "projects/biomed/research_room/contracts.py",
+      "project": "biomed",
+      "source_relative": "research_room/contracts.py",
+      "source_sha256": "25ec85d5384b8199a8978cbc8bebe99a942fc6db4d53db0d0d8ed238100bab3f",
+      "packaged_sha256": "25ec85d5384b8199a8978cbc8bebe99a942fc6db4d53db0d0d8ed238100bab3f",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "25ec85d5384b8199a8978cbc8bebe99a942fc6db4d53db0d0d8ed238100bab3f"
+    },
+    {
+      "file": "projects/biomed/research_room/filtering.py",
+      "project": "biomed",
+      "source_relative": "research_room/filtering.py",
+      "source_sha256": "98869e4a82569953f3b941999620b5f4a6e76b341a6028f8b4c21f8b91323098",
+      "packaged_sha256": "98869e4a82569953f3b941999620b5f4a6e76b341a6028f8b4c21f8b91323098",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "98869e4a82569953f3b941999620b5f4a6e76b341a6028f8b4c21f8b91323098"
+    },
+    {
+      "file": "projects/biomed/research_room/data_inspection.py",
+      "project": "biomed",
+      "source_relative": "research_room/data_inspection.py",
+      "source_sha256": "59aa8234b5f1c2cb15f3aca68937a454c8704138dcc347f279fe00c26004ff72",
+      "packaged_sha256": "59aa8234b5f1c2cb15f3aca68937a454c8704138dcc347f279fe00c26004ff72",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "59aa8234b5f1c2cb15f3aca68937a454c8704138dcc347f279fe00c26004ff72"
+    },
+    {
+      "file": "projects/biomed/research_room/dataset_import.py",
+      "project": "biomed",
+      "source_relative": "research_room/dataset_import.py",
+      "source_sha256": "d7d591579326a609f8d51c695db71b8ae1d53f5eb904ec49cc5ee6797a109315",
+      "packaged_sha256": "d7d591579326a609f8d51c695db71b8ae1d53f5eb904ec49cc5ee6797a109315",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "d7d591579326a609f8d51c695db71b8ae1d53f5eb904ec49cc5ee6797a109315"
+    },
+    {
+      "file": "projects/biomed/research_room/dataset_summary.py",
+      "project": "biomed",
+      "source_relative": "research_room/dataset_summary.py",
+      "source_sha256": "2e607516f9bf9cba4cd32f779263b34343402b116322d6d27a1e5e3bcfb39ffc",
+      "packaged_sha256": "2e607516f9bf9cba4cd32f779263b34343402b116322d6d27a1e5e3bcfb39ffc",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "2e607516f9bf9cba4cd32f779263b34343402b116322d6d27a1e5e3bcfb39ffc"
+    },
+    {
+      "file": "projects/biomed/research_room/lead_compiler.py",
+      "project": "biomed",
+      "source_relative": "research_room/lead_compiler.py",
+      "source_sha256": "94544a9b5e7c33a625df126f3a7a26ac6a290c10345107a09595f9c63b3c805d",
+      "packaged_sha256": "94544a9b5e7c33a625df126f3a7a26ac6a290c10345107a09595f9c63b3c805d",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "94544a9b5e7c33a625df126f3a7a26ac6a290c10345107a09595f9c63b3c805d"
+    },
+    {
+      "file": "projects/biomed/research_room/reconciliation.py",
+      "project": "biomed",
+      "source_relative": "research_room/reconciliation.py",
+      "source_sha256": "2cbcd51bc7493ec33761facabc154c55497ec005c2f85fa2480eece7f01ff1e1",
+      "packaged_sha256": "2cbcd51bc7493ec33761facabc154c55497ec005c2f85fa2480eece7f01ff1e1",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "2cbcd51bc7493ec33761facabc154c55497ec005c2f85fa2480eece7f01ff1e1"
+    },
+    {
+      "file": "projects/biomed/research_room/audit.py",
+      "project": "biomed",
+      "source_relative": "research_room/audit.py",
+      "source_sha256": "13888f9d0daee85d03a89e40854103c70d16415e40051d4f5f97f9ba915effbb",
+      "packaged_sha256": "13888f9d0daee85d03a89e40854103c70d16415e40051d4f5f97f9ba915effbb",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "13888f9d0daee85d03a89e40854103c70d16415e40051d4f5f97f9ba915effbb"
+    },
+    {
+      "file": "projects/biomed/research_room/user_requirements.py",
+      "project": "biomed",
+      "source_relative": "research_room/user_requirements.py",
+      "source_sha256": "6bd18bae17665c80f5e7dcc3e86ad34bac5da498959234660edee0786a249452",
+      "packaged_sha256": "6bd18bae17665c80f5e7dcc3e86ad34bac5da498959234660edee0786a249452",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "6bd18bae17665c80f5e7dcc3e86ad34bac5da498959234660edee0786a249452"
+    },
+    {
+      "file": "projects/biomed/research_room/tool_registry.py",
+      "project": "biomed",
+      "source_relative": "research_room/tool_registry.py",
+      "source_sha256": "e1be22561cc4ba7f5d0632e2126b289300b1d0fc57fe0b306a0444a2f38a0d7c",
+      "packaged_sha256": "e1be22561cc4ba7f5d0632e2126b289300b1d0fc57fe0b306a0444a2f38a0d7c",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "e1be22561cc4ba7f5d0632e2126b289300b1d0fc57fe0b306a0444a2f38a0d7c"
+    },
+    {
+      "file": "projects/biomed/research_room/resource_intent.py",
+      "project": "biomed",
+      "source_relative": "research_room/resource_intent.py",
+      "source_sha256": "e2e6096bd0828caeab7e177058f611a1e31f1fc46bbe6235f5393bd892c0ba5f",
+      "packaged_sha256": "e2e6096bd0828caeab7e177058f611a1e31f1fc46bbe6235f5393bd892c0ba5f",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "e2e6096bd0828caeab7e177058f611a1e31f1fc46bbe6235f5393bd892c0ba5f"
+    },
+    {
+      "file": "projects/biomed/research_room/clarification_memory.py",
+      "project": "biomed",
+      "source_relative": "research_room/clarification_memory.py",
+      "source_sha256": "e0759a25b35461fa44c7bc57b135c5a22a5daeeb28fd64fa84af1c296258ee1e",
+      "packaged_sha256": "e0759a25b35461fa44c7bc57b135c5a22a5daeeb28fd64fa84af1c296258ee1e",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "e0759a25b35461fa44c7bc57b135c5a22a5daeeb28fd64fa84af1c296258ee1e"
+    },
+    {
+      "file": "projects/biomed/research_room/__init__.py",
+      "project": "biomed",
+      "source_relative": "research_room/__init__.py",
+      "source_sha256": "5dc71bb585742eefcd8c6859126083038a840fb376b180a1789b4b62342ee929",
+      "changes": "Only original import blocks for allowlisted deterministic modules retained; generated docstring, omitted runtime exports and __all__.",
+      "final_file_sha256": "74532f6d7e326f88258c8f57b685baf1d4a16622d3a422ae2876bd269c89ed4c"
+    },
+    {
+      "file": "projects/biomed/tests/test_research_contracts.py",
+      "project": "biomed",
+      "source_relative": "tests/test_research_contracts.py",
+      "source_sha256": "c76d939d47afbb8255ae91eec2f76faef0e0ec7805335e656562e1471db92e00",
+      "packaged_sha256": "c76d939d47afbb8255ae91eec2f76faef0e0ec7805335e656562e1471db92e00",
+      "changes": "Unmodified original source bytes.",
+      "final_file_sha256": "c76d939d47afbb8255ae91eec2f76faef0e0ec7805335e656562e1471db92e00"
+    },
+    {
+      "file": "projects/biomed/tests/test_data_inspection.py",
+      "project": "biomed",
+      "source_relative": "tests/test_data_inspection.py",
+      "source_sha256": "ae6e8353b7e1616ade0c13208758092149c42d02f5748c8defeff235756a05a5",
+      "symbols": [
+        "setUp",
+        "tearDown",
+        "test_added_removed_columns_and_empty_output",
+        "test_duplicate_index_is_not_falsely_aligned",
+        "test_failed_receipt_has_no_successful_output",
+        "test_filtered_rows_do_not_become_cell_changes",
+        "test_input_mutation_is_not_marked_unchanged",
+        "test_missing_and_literal_text_are_distinct",
+        "test_preview_is_bounded_and_reports_all_fields",
+        "test_snapshots_deduplicate_and_preserve_old_data",
+        "test_type_change_without_value_change_is_explicit"
+      ],
+      "changes": "Original class methods preserved; only independent imports/wrapper added. Gateway/integration tests omitted.",
+      "final_file_sha256": "17f2ea592b76276ed0c7255a815533483bafbf10c5c55ca9d5c8c142d9dbf0be"
+    },
+    {
+      "file": "projects/biomed/run_demo.py",
+      "project": "packaging",
+      "source_relative": "run_demo.py",
+      "source_sha256": "c498c0dcf4ba63fbc017a36bafae8b601261fa3c6dae8785c8eb1219bd816256",
+      "packaged_sha256": "c498c0dcf4ba63fbc017a36bafae8b601261fa3c6dae8785c8eb1219bd816256",
+      "changes": "New public synthetic demonstration fixture/wrapper; not an original clinical result.",
+      "final_file_sha256": "c498c0dcf4ba63fbc017a36bafae8b601261fa3c6dae8785c8eb1219bd816256"
+    },
+    {
+      "file": "projects/biomed/examples/synthetic_four_rows.csv",
+      "project": "packaging",
+      "source_relative": "examples/synthetic_four_rows.csv",
+      "source_sha256": "86451b675b52148a6fa20c5b55e90124aff2e4ade830911d6a7531f66321d489",
+      "packaged_sha256": "86451b675b52148a6fa20c5b55e90124aff2e4ade830911d6a7531f66321d489",
+      "changes": "New public synthetic demonstration fixture/wrapper; not an original clinical result.",
+      "final_file_sha256": "86451b675b52148a6fa20c5b55e90124aff2e4ade830911d6a7531f66321d489"
+    },
+    {
+      "file": "projects/industry/scoped_industry_estimators.py",
+      "project": "industry",
+      "source_relative": "scripts/scoped_industry_estimators.py",
+      "source_sha256": "cdd5b2cb404c04bdf034c73fec1cdf0605c0e4e3f6536407c7c3479d9b4102ff",
+      "changes": "Removed sys and Path imports and three-line third_party vendor sys.path injection from _boost; estimator algorithms unchanged. Install optional packages normally.",
+      "final_file_sha256": "24391bb400da800ca33300eee709869ae659cda154fbf7eef08f0b621a06639b"
+    },
+    {
+      "file": "projects/industry/evaluation.py",
+      "project": "industry",
+      "source_relative": "scripts/run_scoped_industry_forecast.py",
+      "source_sha256": "9ef1c3767f9a345fedca924b22bb9fb439848ef0800d291713fb67eb303f04e3",
+      "definitions": [
+        {
+          "symbol": "NEW_MODELS",
+          "source_lines": [
+            31,
+            31
+          ],
+          "extracted_text_sha256": "dfb869d3a0d9be1a62f20d5be3ea686139b25d44623b1c24cbc94301c260763e"
+        },
+        {
+          "symbol": "ENSEMBLE_MODELS",
+          "source_lines": [
+            33,
+            33
+          ],
+          "extracted_text_sha256": "bb7200095025ea92138e4a8c17a66c34c3cb6bbbac5b419c00bdd5caca7cf591"
+        },
+        {
+          "symbol": "WINDOWS",
+          "source_lines": [
+            34,
+            34
+          ],
+          "extracted_text_sha256": "2ad8fffde9b73e39705caff1c073ff4c96dc9cfe5b55207e7f459e61d4b146b7"
+        },
+        {
+          "symbol": "METRICS_VERSION",
+          "source_lines": [
+            35,
+            35
+          ],
+          "extracted_text_sha256": "29e742b29b9cefb7ba027e54959aaf129c2722a375be1b2da6a51537ac592ccf"
+        },
+        {
+          "symbol": "ensemble_weights",
+          "source_lines": [
+            106,
+            118
+          ],
+          "extracted_text_sha256": "b25429c5b0a69c44dd193f4e9cc2ba50873d1ae5721b73ba662e76157b038a18"
+        },
+        {
+          "symbol": "metric",
+          "source_lines": [
+            121,
+            161
+          ],
+          "extracted_text_sha256": "e2a91b6f263ea38d5d2f019cea8e68a575e565f57ba99581f2773749df87ba62"
+        },
+        {
+          "symbol": "select",
+          "source_lines": [
+            164,
+            173
+          ],
+          "extracted_text_sha256": "c931cbc61faf9af95c3fd877e0ffde87fa8d69a24bf4a5bc31e0794f743daabb"
+        }
+      ],
+      "changes": "Exact original definitions extracted; standalone imports/docstring added.",
+      "final_file_sha256": "a099fa10529f48056210bc6a0ce07b29cc39e199e900103a6de01c31a3b1887d"
+    },
+    {
+      "file": "projects/industry/R/single_factor_reliability_operator.R",
+      "project": "industry",
+      "source_relative": "R/36_E3_common_factor_reliability_operator.R",
+      "source_sha256": "873aea657f1b91742b19c82ed58e0760943c554c329bb53bfe9c08270c3594cd",
+      "source_line_ranges": [
+        [
+          44,
+          113
+        ]
+      ],
+      "extracted_text_sha256": [
+        "9cdf01e0d88853dcd2d52baa91eb56a2d15a0c1380e1737b6435d5c796a4ded9"
+      ],
+      "changes": "Function/constant source text unchanged; data lookup, data loading, result plotting and local execution omitted.",
+      "final_file_sha256": "749c0a582f809344d0627f3e5583e4fe9b8f69d5ce3261828357f90b12c4016d"
+    },
+    {
+      "file": "projects/industry/R/growth_tables.R",
+      "project": "industry",
+      "source_relative": "outputs/growth_repro_bundle_20260922/重現增率表與圖.R",
+      "source_sha256": "2658565f9019a8570a91c26da9f1083cf3f61ffd472f8a93e78fa2ace5338f89",
+      "source_line_ranges": [
+        [
+          18,
+          18
+        ],
+        [
+          70,
+          147
+        ]
+      ],
+      "extracted_text_sha256": [
+        "6d9e70e0af25db7199b8dc653ed17eb1c790b1ab61097ff773b828579d43d345",
+        "e452bb0b78e57f0b31eca8303503967a54f09aa959d62dd2f8daa72931374052"
+      ],
+      "changes": "Function/constant source text unchanged; data lookup, data loading, result plotting and local execution omitted.",
+      "final_file_sha256": "9797807fe57da335e1fb55ea5e14f9d77c840950a29d9db0c153648181d361b2"
+    },
+    {
+      "file": "coursework/sampling/sampling_final_report.R",
+      "project": "coursework_sampling",
+      "source_relative": "sampling_final_report.R",
+      "source_sha256": "2fa58cb3b03d741a2c8726d2aafa4736471fa1291324b57f14d9b60475ee6e78",
+      "packaged_sha256": "2fa58cb3b03d741a2c8726d2aafa4736471fa1291324b57f14d9b60475ee6e78",
+      "changes": "Unmodified actual R simulation source; no original data, tables or figures bundled.",
+      "final_file_sha256": "2fa58cb3b03d741a2c8726d2aafa4736471fa1291324b57f14d9b60475ee6e78"
+    },
+    {
+      "file": "assets/biomed_architecture.png",
+      "project": "biomed_report",
+      "source_relative": "architecture.png",
+      "source_sha256": "ff70c73ec8821948874531ff38cc1707ffcb6f3902bba855735cf379e872609c",
+      "changes": "Copied reviewed aggregate report PNG; no row-level data.",
+      "final_file_sha256": "ff70c73ec8821948874531ff38cc1707ffcb6f3902bba855735cf379e872609c"
+    },
+    {
+      "file": "assets/industry_metrics.png",
+      "project": "industry_report",
+      "source_relative": "05_monthly_metrics.png",
+      "source_sha256": "5f1a5542fdeb1c691525980b8ed11c18674afc3764f1b739f38fbfbd61a39e56",
+      "changes": "Copied reviewed aggregate report PNG; no row-level data.",
+      "final_file_sha256": "5f1a5542fdeb1c691525980b8ed11c18674afc3764f1b739f38fbfbd61a39e56"
+    }
+  ],
+  "license_added": false
+}
